@@ -1,0 +1,19 @@
+html, body { font-family: helvetica; }
+body { text-align: center; }
+h1 { margin: 0px 0px 0px 0px;}
+
+#alertInfo { color: red; }
+
+#results {
+    margin: 0px auto;
+    width: 50%;
+    font-size: 14px;
+    font-weight: bold;
+    border: 1px solid #ddd;
+    padding: 15px;
+    text-align: left;
+    min-height: 150px;
+}
+select{
+    display:none
+}
